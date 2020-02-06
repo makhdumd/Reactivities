@@ -26,7 +26,7 @@ namespace API.Controllers
             return Ok(values);
         }
 
-        // GET api/values/2
+        // GET api/values/3
         [HttpGet("{id}")]
         public async Task<ActionResult<Value>> Get(int id)
         {
