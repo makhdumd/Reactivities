@@ -4,7 +4,7 @@ let data;
 
 data = "43";
 
-data = 2;
+data = 3;
 
 export interface ICar {
     color: string;
